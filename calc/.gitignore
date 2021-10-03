@@ -1,0 +1,5 @@
+# ignore .idea directory
+.idea
+
+#ignore __pycache__ directory
+__pycache__
